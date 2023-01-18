@@ -15,7 +15,7 @@ Subdisciplina del campo de la informática que busca la reación de máquinas qu
 * NLP
 * Voz
 
-## Aprenizaje Automático (MAchine lerning)
+## Aprenizaje Automático (Machine lerning)
 
 Rama del campo de la inteligencia Artificial, que busca como dotar a las maquinas de capacidad de aprendizaje.
 
