@@ -90,11 +90,11 @@ Los chatbots pueden ser una excelente manera de enseñar a los niños programaci
 
 Hay dos tipos principales de chatbots: chatbots basados en reglas y chatbots de aprendizaje automático.
 
-** Los chatbots basados en reglas:
+#### Los chatbots basados en reglas:
 
 Siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del usuario, pero solo pueden responder de forma limitada. Los chatbots basados ​​en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
 
-** Los chatbots de aprendizaje automático:
+#### Los chatbots de aprendizaje automático:
 
 Funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
 
@@ -102,15 +102,15 @@ Funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de ap
 
 Los chatbots tienen varias ventajas sobre el servicio al cliente tradicional, que incluyen:
 
-– Mayor eficiencia: los chatbots pueden proporcionar respuestas rápidas a las preguntas y solicitudes de los clientes. Esto ahorra tiempo tanto para los clientes como para los agentes de servicio al cliente.
+- Mayor eficiencia: los chatbots pueden proporcionar respuestas rápidas a las preguntas y solicitudes de los clientes. Esto ahorra tiempo tanto para los clientes como para los agentes de servicio al cliente.
 
-– Precisión mejorada: dado que los chatbots funcionan con inteligencia artificial (IA), pueden reconocer con precisión la intención del usuario y brindar la respuesta adecuada a las consultas de los clientes.
+- Precisión mejorada: dado que los chatbots funcionan con inteligencia artificial (IA), pueden reconocer con precisión la intención del usuario y brindar la respuesta adecuada a las consultas de los clientes.
 
-– Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
+- Disponibilidad 24/7: los chatbots están disponibles las 24 horas, lo que significa que los clientes pueden obtener respuestas incluso cuando los agentes no están disponibles.
 
-– Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
+- Ahorro de costos: los chatbots pueden ayudar a reducir los costos asociados con el servicio al cliente, ya que requieren menos personal y recursos que las opciones tradicionales de servicio al cliente.
 
-– Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
+- Mayor satisfacción del cliente: los chatbots pueden brindar una ayuda más rápida y precisa, lo que mejora la satisfacción del cliente.
 
 ### ¿Y las desventajas de los chatbots?
 
