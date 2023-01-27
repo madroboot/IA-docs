@@ -137,17 +137,17 @@ Etiquetado de palabras en una oración
 
 Esta es una forma de identificar la parte del discurso de cada palabra en una oración. Por ejemplo, podría etiquetar las palabras en la oración "El gato se sentó en el sillón" de la siguiente manera:
 
-el = determinante
+                                                el = determinante
 
-gato = sustantivo
+                                                gato = sustantivo
 
-sentado = verbo
+                                                sentado = verbo
 
-en = preposición
+                                                en = preposición
 
-el = determinante
+                                                el = determinante
 
-sillón = sustantivo
+                                                sillón = sustantivo
 
 * Generar Texto
 
