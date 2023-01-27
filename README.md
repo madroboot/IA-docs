@@ -179,7 +179,9 @@ Reconocimiento de entidades
 
 Es un tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario. Esta información podría ser palabras, frases, números u otros puntos de datos. El reconocimiento de entidades ayuda a los chatbots a comprender lo que quiere el usuario al identificar palabras clave y frases dentro de su entrada.
 
-- La principal diferencia entre el reconocimiento de entidad y de intención es que el reconocimiento de entidad busca palabras clave y frases dentro de la entrada del usuario, mientras que el reconocimiento de intención se utiliza para asignar la entrada del usuario a una respuesta adecuada. Ambas son herramientas importantes para desarrollar un chatbot exitoso.
+* La principal diferencia entre el reconocimiento de entidad y de intención 
+
+El reconocimiento de entidad busca palabras clave y frases dentro de la entrada del usuario, mientras que el reconocimiento de intención se utiliza para asignar la entrada del usuario a una respuesta adecuada. Ambas son herramientas importantes para desarrollar un chatbot exitoso.
 
 
 ### ¿Qué es la codificación de chatbot?
