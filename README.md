@@ -55,7 +55,7 @@ La clave reside en que la inteligencia artificial sea capaz de reconocer símbol
 
 Lo novedoso es que el modelo aprende un generador determinado que crea datos realistas para usar en tareas como la generación de imágenes o predicciones futuras.
 
-*Aprendizaje automático y síntesis molecular
+* Aprendizaje automático y síntesis molecular
 
 Como resultado, observaremos la mayoría de los avances en el dominio de la resolución efectiva de tareas. Gracias a ello, los avances en inteligencia artificial podrán ayudar en campos como la sanidad y la biología, determinando qué fármacos son los mejores para una situación determinada, por ejemplo.
 
@@ -86,15 +86,15 @@ Un Chatbot es un programa informático que simula una conversación humana. Los 
 
 Los chatbots pueden ser una excelente manera de enseñar a los niños programación y lógica. Los estudiantes pueden aprender esto a través de clases de codificación en línea para niños. Los niños pueden aprender a programar el chatbot brindándole comandos e instrucciones simples, así como utilizando herramientas de inteligencia artificial (IA) listas para usar para tareas de programación más complejas. Con estas herramientas de IA, los niños pueden crear su propio mini chatbot que responde a preguntas y conversaciones como lo haría una persona real. ¡Es una forma emocionante de aprender conceptos de inteligencia artificial (IA) de una manera divertida e interactiva! Puede experimentar la emoción inscribiéndose en el curso de IA para principiantes.
 
-*Tipos de chatbots
+* Tipos de chatbots
 
 Hay dos tipos principales de chatbots: chatbots basados en reglas y chatbots de aprendizaje automático.
 
-**Los chatbots basados en reglas:
+** Los chatbots basados en reglas:
 
 Siguen un conjunto de reglas que han sido programadas por un humano. Estos chatbots pueden comprender la entrada del usuario, pero solo pueden responder de forma limitada. Los chatbots basados ​​en reglas generalmente se limitan a tareas pequeñas, como proporcionar información meteorológica o indicaciones.
 
-**Los chatbots de aprendizaje automático:
+** Los chatbots de aprendizaje automático:
 
 Funcionan con inteligencia artificial (IA). Estos chatbots usan algoritmos de aprendizaje automático para aprender de los datos y se vuelven más inteligentes con el tiempo. Los chatbots de aprendizaje automático pueden comprender entradas de usuario más complejas y pueden proporcionar respuestas más precisas.
 
@@ -130,7 +130,7 @@ La respuesta del chatbot puede estar preprogramada o codificada, o puede generar
 
 El procesamiento del lenguaje natural en Chatbots se puede clasificar en diferentes categorías.
 
-*Clasificación de texto
+* Clasificación de texto
 
 Esta es una forma de clasificar los textos según su contenido. Por ejemplo, podrías clasificar un texto como sobre deportes, política o historia.
 Etiquetado de palabras en una oración
@@ -149,19 +149,19 @@ el = determinante
 
 sillón = sustantivo
 
-*Generar Texto
+* Generar Texto
 
 Es una forma de crear nuevos textos usando inteligencia artificial. Por ejemplo, podría usar un algoritmo de aprendizaje automático para generar una nueva oración basada en la oración "El gato se sentó en el sillón".
 
-*Traducción de idiomas
+* Traducción de idiomas
 
 Es una forma de traducir texto de un idioma a otro. Por ejemplo, podría usar un algoritmo de aprendizaje automático para traducir una oración del inglés al español.
 
-*Preguntas y respuestas
+* Preguntas y respuestas
 
 Son una forma de entender un texto haciendo preguntas sobre el mismo. Por ejemplo, podrías preguntarle a un chatbot "¿Qué está haciendo el gato en la oración?" y el chatbot respondería "El gato está sentado en el sillón".
 
-*IA conversacional
+* IA conversacional
 
 Es una forma de crear un sistema de inteligencia artificial que pueda mantener una conversación con un humano. Por ejemplo, podría usarse un algoritmo de aprendizaje automático para crear un chatbot que pueda tener una conversación con un humano sobre el clima.
 
@@ -170,12 +170,12 @@ Es una forma de crear un sistema de inteligencia artificial que pueda mantener u
 La intención y el reconocimiento de entidades son dos conceptos importantes en el desarrollo de chatbots.
 Reconocimiento de intenciones
 
-*El reconocimiento de intenciones: 
+* El reconocimiento de intenciones: 
 
 Es un tipo de inteligencia artificial que permite a los chatbots comprender la intención del usuario. El reconocimiento de intención se utiliza para asignar la entrada del usuario a la respuesta adecuada. Por ejemplo, si un usuario le pide direcciones a un chatbot, el chatbot usará el reconocimiento de intención para entender que el usuario quiere direcciones a una ubicación específica.
 Reconocimiento de entidades
 
-*El reconocimiento de entidades:
+* El reconocimiento de entidades:
 
 Es un tipo de inteligencia artificial que permite a los chatbots identificar información relevante en la entrada del usuario. Esta información podría ser palabras, frases, números u otros puntos de datos. El reconocimiento de entidades ayuda a los chatbots a comprender lo que quiere el usuario al identificar palabras clave y frases dentro de su entrada.
 
